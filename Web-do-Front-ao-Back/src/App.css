@@ -1,9 +1,7 @@
-
 #menu ul li{
   display: inline;
   cursor: pointer;
   padding:15px;
-   
 }
 
 #menu ul li a{

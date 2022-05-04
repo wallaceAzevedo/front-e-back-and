@@ -88,9 +88,6 @@ app.post('/login', (req,res)=>{
                 name: result.name,
                 email: result.email,
                 image: result.image,
-                
-            
-
             }
 
             return res.send(req.session.result)
